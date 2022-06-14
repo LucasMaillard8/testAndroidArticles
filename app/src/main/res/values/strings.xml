@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestAndroidArticles</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="add_to_favorites">Added to favorites</string>
+    <string name="remove_from_favorites">Removed from favorites</string>
+</resources>
